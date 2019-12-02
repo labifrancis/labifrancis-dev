@@ -14,4 +14,8 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
+<<<<<<< HEAD
 You can also use the form below for any inquiries about coffee.
+=======
+You can also use the form below for any inquiries about 
+>>>>>>> ef2443a4c5bac7c21dd80e0e441a710a306b1cb5
